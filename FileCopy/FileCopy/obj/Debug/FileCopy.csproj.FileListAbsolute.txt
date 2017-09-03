@@ -1,0 +1,7 @@
+c:\users\fujit\documents\visual studio 2017\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe.config
+c:\users\fujit\documents\visual studio 2017\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe
+c:\users\fujit\documents\visual studio 2017\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.pdb
+c:\users\fujit\documents\visual studio 2017\Projects\FileCopy\FileCopy\obj\Debug\FileCopy.csprojResolveAssemblyReference.cache
+c:\users\fujit\documents\visual studio 2017\Projects\FileCopy\FileCopy\obj\Debug\FileCopy.csproj.CoreCompileInputs.cache
+c:\users\fujit\documents\visual studio 2017\Projects\FileCopy\FileCopy\obj\Debug\FileCopy.exe
+c:\users\fujit\documents\visual studio 2017\Projects\FileCopy\FileCopy\obj\Debug\FileCopy.pdb
